@@ -1,5 +1,9 @@
 # DarkCold Kvantum KDE theme by OriginalSeed
 
+
+![darkcold](./darkcold-sample.png)
+
+
 ## Description
 
 DarkCold, a sleek dark skeuomorphic KDE/Kvantum theme. Ported from GTK theme that dates back to 2010.
