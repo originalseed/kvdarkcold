@@ -384,10 +384,10 @@ text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 text.bold=true
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 frame.expansion=0
 
 [ProgressbarContents]
@@ -395,10 +395,10 @@ inherits=PanelButtonCommand
 frame=true
 frame.element=progress-pattern
 interior.element=progress-pattern
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 frame.expansion=0
 
 [ItemView]
