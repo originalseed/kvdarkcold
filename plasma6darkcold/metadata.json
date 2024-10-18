@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "originalseed@kde.org",
+                "Name": "Dark Cold"
+
+            }
+        ],
+        "Category": "",
+        "Description": "Theme done in the Dark Cold style",
+        "EnabledByDefault": true,
+        "Id": "darkcold",
+        "License": "GPL",
+        "Name": "Darkcold",
+        "Version": "6.2.0",
+        "Website": "https://www.kde.org/"
+    },
+    "X-Plasma-API": "5.0"
+}
