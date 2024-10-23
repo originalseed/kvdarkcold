@@ -1,7 +1,7 @@
 # DarkCold Kvantum KDE theme by OriginalSeed
 
 
-![darkcold](./darkcold-sample.png)
+![darkcold](../project-assets/darkcold-sample.png)
 
 
 ## Description
