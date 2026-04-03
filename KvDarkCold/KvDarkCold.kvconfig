@@ -74,6 +74,7 @@ shadowless_popup=false
 drag_from_buttons=false
 menu_blur_radius=0
 tooltip_blur_radius=0
+map_menu_separator_to_sunken_line=false
 
 [GeneralColors]
 window.color=#252525
@@ -447,6 +448,12 @@ frame.top=2
 frame.bottom=2
 
 [Menu]
+inherits=PanelButtonCommand
+text.margin=1
+text.margin.top=2
+text.margin.bottom=2
+text.margin.left=2
+text.margin.right=2
 frame.top=2
 frame.bottom=2
 frame.left=2
@@ -454,9 +461,6 @@ frame.right=2
 frame.element=menu
 interior.element=menu
 text.normal.color=#6EBEFE
-text.shadow=false
-frame.expansion=0
-text.bold=false
 
 [MenuItem]
 inherits=PanelButtonCommand
