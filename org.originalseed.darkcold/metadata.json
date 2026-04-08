@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "originalseed@noemail.net",
+                "Name": "Originalseed"
+            }
+        ],
+        "Description": "Dark Skeuomorphic - Kvantum Dependent",
+        "Id": "org.originalseed.darkcold",
+        "License": "GPL 3+",
+        "Name": "Darkcold",
+        "Website": "https://github.com/originalseed/kvdarkcold"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default",
+    "X-KPackage-Dependencies": [
+    "kns://aurorae.knsrc/api.kde-look.org/2109407",
+    "kns://colorschemes.knsrc/api.kde-look.org/2355076",
+    "kns://plasma-themes.knsrc/api.kde-look.org/2217298",
+    "kns://icons.knsrc/api.kde-look.org/1625931"
+    ]
+}

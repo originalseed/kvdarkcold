@@ -2,9 +2,13 @@
 
 ## Content
 
-- KvDarkcold - Kvantum theme
-- plasma/plasma6darkcold - Plasma 6 Theme
+- KvDarkcold - Kvantum theme - https://store.kde.org/p/2111726 
+- plasma/plasma6darkcold - Plasma 6 Theme - https://store.kde.org/p/2217298
 - plasma/plasma5darkcold - Plasma 5 Theme
+- color-scheme - Darkcold color scheme - https://store.kde.org/p/2355076/
+- org.originalseed.darkcold - Global theme
+
+Additional: Plasma Window Decoration: https://store.kde.org/p/2109407
 
 
 
